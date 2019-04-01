@@ -1,6 +1,7 @@
 # GBDT_20newsgroups
 ## original_gbdt.py文件是使用默认参数的GBDT模型
 得到的平均准确率是0.79，平均召回率是0.75，平均f1-score是0.76
+![pic](https://github.com/hanjiacheng/GBDT_20newsgroups/blob/master/%E9%BB%98%E8%AE%A4%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B%E3%80%82.PNG)
 ## GBDT.py文件是想通过网格搜索寻找最佳参数，但由于训练时间过长，没有跑出具体的结果。
 ### 主要的想法是：
 
